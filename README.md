@@ -6,6 +6,8 @@ Willkommen im Repository für Lilo!
 
 Lilo ist keine herkömmliche Programmiersprache, sondern eine strukturierte Methode, um einem KI-Assistenten durch eine Vorlage einen **Ablauf (Workflow)** für eine bestimmte Aufgabe oder Interaktion zu definieren. Anstatt klassischen Programmcode zu verwenden, nutzt Lilo eine Organisation in Abschnitte und Direktiven in natürlicher Sprache, um das Verhalten der KI zu steuern.
 
+Wir haben uns für den Namen Lilo für unsere Workflow-Sprache entschieden, weil er kurz, einprägsam und klangvoll ist. Ähnlich wie ein sanfter Fluss steht Lilo für den reibungslosen und intuitiven Ablauf, den du mit unserer Methode zur Steuerung von KI-Workflows erreichen kannst. Lilo ist eingängig und einzigartig, genau wie unser Ansatz, komplexe Interaktionen auf einfache Weise zu definieren.
+
 **Kernkonzepte von Lilo:**
 
 1.  **Strukturierte Abschnitte:** Ein Lilo-Dokument gliedert sich in thematische Abschnitte (z.B. Initialisierung, Benutzereingabe, Ausgabe).
