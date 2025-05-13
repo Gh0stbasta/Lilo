@@ -1,6 +1,6 @@
 # 🌊 Lilo Repository
 
-Willkommen im Repository für Lilo!
+Willkommen im Repository für Lilo.
 
 ## Teil 1: Einführung in Lilo
 
